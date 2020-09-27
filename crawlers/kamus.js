@@ -65,7 +65,7 @@ const csvWriter = createCsvWriter({
         });
 
         await csvWriter.writeRecords(csvRecords);
-        console.log('CSV written to corpus/dictionary.csv');
+        console.log('CSV written to csv/dictionary.csv');
 
     } catch (error) {
         console.error(error);
