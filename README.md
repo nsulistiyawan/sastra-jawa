@@ -4,14 +4,14 @@ An effort to digitalize Javanese language related contents, and make it develope
 
 All database saved as CSV file.
 
-### Todos
+### :book: Todos
 - [x] Database Kamus Bahasa Jawa 
 - [ ] Kamus Bahasa Jawa crawler performance optimization
 - [ ] Database [Dasanama](https://www.sastra.org/katalog/judul?ti_id=1903) 
 - [ ] Database [Bebasan Lan Saloka](https://www.sastra.org/katalog/judul?ti_id=1278)
 - [ ] Other? 
 
-### Setup / Installation
+### :computer: Setup / Installation
 ```
 git@github.com:nsulistiyawan/sastra-jawa.git
 npm install
