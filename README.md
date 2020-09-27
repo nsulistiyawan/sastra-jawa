@@ -2,13 +2,11 @@
 
 An effort to digitalize Javanese language related contents, and make it developer friendly :rocket:.
 
-All database saved as CSV file.
-
 ### :book: Todos
-- [x] Database Kamus Bahasa Jawa 
+- [x] Database (CSV) Kamus Bahasa Jawa 
 - [ ] Kamus Bahasa Jawa crawler performance optimization
-- [ ] Database [Dasanama](https://www.sastra.org/katalog/judul?ti_id=1903) 
-- [ ] Database [Bebasan Lan Saloka](https://www.sastra.org/katalog/judul?ti_id=1278)
+- [ ] Database (CSV) [Dasanama](https://www.sastra.org/katalog/judul?ti_id=1903) 
+- [ ] Database (CSV) [Bebasan Lan Saloka](https://www.sastra.org/katalog/judul?ti_id=1278)
 - [ ] Other? 
 
 ### :computer: Setup / Installation
