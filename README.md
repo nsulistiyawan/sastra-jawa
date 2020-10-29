@@ -4,7 +4,7 @@ An effort to digitalize Javanese language related contents, and make it develope
 
 ### :book: Todos
 - [x] Database (CSV) [Kamus Bahasa Jawa](https://github.com/nsulistiyawan/sastra-jawa/blob/master/csv/dictionary.csv)
-- [ ] Database (CSV) [Dasanama](https://www.sastra.org/katalog/judul?ti_id=1903) 
+- [x] Database (CSV) [Dasanama](https://www.sastra.org/katalog/judul?ti_id=1903) 
 - [ ] Database (CSV) [Bebasan Lan Saloka](https://www.sastra.org/katalog/judul?ti_id=1278)
 - [ ] Kamus Bahasa Jawa crawler performance optimization
 - [ ] Other? 
